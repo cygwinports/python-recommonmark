@@ -12,4 +12,4 @@ ARCH=noarch
 
 PKG_NAMES+=" recommonmark"
 recommonmark_CATEGORY="Text"
-recommonmark_CONTENTS="usr/bin/cm2*"
+recommonmark_CONTENTS="usr/bin/cm2* usr/share/doc/recommonmark/"
